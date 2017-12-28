@@ -1,0 +1,3 @@
+Durchschnittliches Sterbealter von Einwohner/innen mit Hauptwohnsitz in Jahren.
+Anzahl Einwohner/innen mit Hauptwohnsitz je Apotheke.
+Anzahl der Einwohner/innen mit Hauptwohnsitz je Ärztin/ Arzt der jeweiligen Fachrichtung
