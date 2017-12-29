@@ -1,3 +1,5 @@
-Durchschnittliches Sterbealter von Einwohner/innen mit Hauptwohnsitz in Jahren.
-Anzahl Einwohner/innen mit Hauptwohnsitz je Apotheke.
-Anzahl der Einwohner/innen mit Hauptwohnsitz je Ärztin/ Arzt der jeweiligen Fachrichtung
+Sterbealter: Durchschnittliches Sterbealter von Einwohner/innen mit Hauptwohnsitz in Jahren.
+Apotheke: Anzahl Einwohner/innen mit Hauptwohnsitz je Apotheke.
+Ärzte: Anzahl der Einwohner/innen mit Hauptwohnsitz je Ärztin/ Arzt der jeweiligen Fachrichtung
+Motorisierungsgrad: Anzahl der Personenkraftwagen (Pkw) und Krafträder an allen Einwohner/innen mit Hauptwohnsitz in Prozent.
+Starke Zunahme des Motorisierungsgrades (Pkw und Krafträder gesamt) in 2011 infolge eines weiteren ab 2011 tätigen gewerblichen Autovermieters im Stadtbezirk 1 Altstadt-Lehel.
